@@ -43,6 +43,11 @@ Este script não altera nada dentro das composições. Ele apenas organiza o pro
 *(Caso ocorrer algum erro, reporta pro João que ele vai consertar, o script NÃO DEVE apagar arquivos sendo utilizados pela comp final de forma alguma)*
 
 ## Desenvolvido para a Neves Filmes  
-Ferramenta interna criada para manter a qualidade, o padrão e a agilidade pra equipe MAIS FODA do mundo.
+Ferramenta interna criada para manter a qualidade, o padrão e a agilidade pra equipe **MAIS FODA DO MUNDO**.
 
 ## BORA PRA CIMAAA 🔥🔥🔥🔥🔥
+
+## Licença
+© 2025 Neves Filmes. Todos os direitos reservados.  
+Script proprietário de uso interno. É proibida a redistribuição ou modificação sem autorização.  
+Desenvolvido por João Vitor Cardoso de Souza.
