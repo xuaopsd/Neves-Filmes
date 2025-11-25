@@ -1,4 +1,4 @@
-# Finalização Automática – Neves Filmes  
+# Finalização Automática - Neves Filmes  
 Script de finalização de projeto para a equipe da Neves Filmes
 
 ## O que é  
@@ -20,7 +20,7 @@ A função deste script é deixar tudo pronto para entrega, revisão, ou até me
 1. Abra o projeto no After Effects.  
 2. Selecione a composição final *(ou deixe ela aberta na timeline)*.  
 3. Vá em **File > Scripts > Run Script File**.  
-4. Escolha o arquivo **Finalização – Neves Filmes.jsx**.  
+4. Escolha o arquivo **Finalização - Neves Filmes.jsx**.  
 5. Veja o resultado *(as vezes pode ser catastrófico viu, cuidado)*
 
 O processo dura poucos milisegundos e o projeto será reorganizado.
